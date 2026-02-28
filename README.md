@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 AI Engineer & Automation Architect | specialized in RAG, Agentic Workflows, and Real-time Voice LLMs. Scaling intelligent systems with Python & TypeScript.
 
 
